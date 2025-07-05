@@ -9,7 +9,7 @@ This project aims to analyze and predict housing prices in Boston suburbs using 
 ## Project Structure
 
 ```
-MALAV_GAJERA_FINAL_PROJECT/
+PROJECT/
 ├── README.md
 ├── .gitignore
 └── Data/
@@ -52,7 +52,6 @@ The dataset includes 14 attributes:
 
 ## Installation & Setup
 
-```bash
 # Clone the repository
 git clone https://github.com/yourusername/boston-house-price-prediction.git
 
@@ -64,7 +63,7 @@ pip install -r Data/requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook Data/Malav_Gajera_Final_Project.ipynb
-```
+
 
 ## Usage
 
